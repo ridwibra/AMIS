@@ -86,14 +86,14 @@ export default function Home() {
           At AMIS, we recognize that the choice of school is one of the most
           important, and therefore the most stressful, aspects of an
           international move. Choice of school often determines choice of
-          housing, and we understand the need for an 'early' confirmation of
-          place at AMIS.
+          housing, and we understand the need for an &quot;early&quot;
+          confirmation of place at AMIS.
         </p>
         <p className="mb-2">
           All placements are conditional. An interview with the director and /
           or coordinators may be arranged prior to acceptance as part of the
-          enrolment process. Admissions are conditional on a student's ability
-          to benefit from the tuition offered.
+          enrolment process. Admissions are conditional on a student&apos;s
+          ability to benefit from the tuition offered.
         </p>
         <p className="mb-2">
           Applicants who meet all admissions criteria are admitted for the
@@ -123,8 +123,8 @@ export default function Home() {
           to, the cancellation of a confirmed enrolment or re-enrolment entails
           the obligation to pay the fees for the current and following term. The
           same payment obligations apply in the event that it is necessary for
-          the school to terminate the student's enrolment at any stage during
-          the school Year.
+          the school to terminate the student&apos;s enrolment at any stage
+          during the school Year.
         </p>
         <p className="mb-2">
           The academic year is divided into two or three terms:
@@ -252,14 +252,14 @@ export default function Home() {
       <div className="p-4">
         <h3 className="text-lg font-bold mb-2">Late payment of school fees</h3>
         <p className="mb-2">
-          In the event a student's tuition is overdue for payment (7 days from
-          the date mentioned before), parents will be notified through a form of
-          communication e.g. Letters, mail, or phone call requesting the
+          In the event a student&apos;s tuition is overdue for payment (7 days
+          from the date mentioned before), parents will be notified through a
+          form of communication e.g. Letters, mail, or phone call requesting the
           guardian / parents to clear the outstanding balance.
         </p>
         <p className="mb-2">
-          Non-clearance of the balance within a week's time after notification,
-          would lead to{" "}
+          Non-clearance of the balance within a week&apos;s time after
+          notification, would lead to{" "}
           <span className="underline">
             cancellation of any discount if given
           </span>
